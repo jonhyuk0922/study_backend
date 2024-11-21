@@ -21,7 +21,6 @@
 │   │   └── app.py
 │   ├── run.sh
 │   └── setup.sh
-│
 └── step2/
     ├── backend/
     │   ├── __init__.py
@@ -33,7 +32,7 @@
     ├── setup.sh
     ├── .env.example
     └── README.md
-
+    
 ## 프로젝트 설치 및 실행
 ### 복제
 ```bash
@@ -72,3 +71,4 @@ streamlit run app.py
 ---
 
 이제 Todo 리스트 관리와 AI 어시스턴트 기능을 함께 사용할 준비가 완료되었습니다!
+
